@@ -1,0 +1,6 @@
+[submodule "centos7"]
+	path = centos7
+	url = https://gist.github.com/0578d772c33b7bf6875115bd0b9ac7ee.git
+[submodule "proxmox"]
+	path = proxmox
+	url = https://gist.github.com/0578d772c33b7bf6875115bd0b9ac7ee.git
